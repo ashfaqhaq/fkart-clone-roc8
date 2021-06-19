@@ -52,7 +52,7 @@ function ContentBody() {
             type="radio"
             name="gender"
             value="M"
-            checked={filter.gender==="M"}
+            checked={filter?.gender==="M"}
             onChange={(e) => handleOnChange(e)}
             ref={genderRef}
           />
@@ -60,7 +60,7 @@ function ContentBody() {
           <input
             type="radio"
             name="gender"
-            checked={filter.gender==="F"}
+            checked={filter?.gender==="F"}
             value="F"
             onChange={(e) => handleOnChange(e)}
             ref={genderRef}
@@ -73,7 +73,7 @@ function ContentBody() {
             type="radio"
             name="size"
             value="M"
-            checked={filter.size==="M"}
+            checked={filter?.size==="M"}
             onChange={(e) => handleOnChange(e)}
             ref={sizeRef}
           />
@@ -82,7 +82,7 @@ function ContentBody() {
             type="radio"
             name="size"
             value="S"
-            checked={filter.size==="S"}
+            checked={filter?.size==="S"}
             onChange={(e) => handleOnChange(e)}
             ref={sizeRef}
           />
@@ -90,7 +90,7 @@ function ContentBody() {
           <input
             type="radio"
             name="size"
-            checked={filter.size==="L"}
+            checked={filter?.size==="L"}
             value="L"
             onChange={(e) => handleOnChange(e)}
             ref={sizeRef}
@@ -100,7 +100,7 @@ function ContentBody() {
             type="radio"
             name="size"
             value="XL"
-            checked={filter.size==="XL"}
+            checked={filter?.size==="XL"}
             onChange={(e) => handleOnChange(e)}
             ref={sizeRef}
           />
