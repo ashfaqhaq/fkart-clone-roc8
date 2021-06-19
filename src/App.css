@@ -1,0 +1,45 @@
+.bg-gray{
+  background-color: #f1f3f6;
+}
+
+.bg-white{
+  background-color: white;
+}
+.mg-5{
+  margin: 0.5rem;
+}
+
+
+.active{
+  text-decoration: underline;
+  font-weight: bold;
+}
+
+
+.pd-5{
+  padding:0.5rem;
+}
+
+.flex{
+  display:flex;
+  justify-content:center;
+  flex-wrap: wrap;
+}
+
+.space-around{
+  justify-content: space-around;
+}
+
+.small{
+  font-size:small;
+  font-weight:400;
+}
+
+.hover-blue:hover{
+  color: #2874f0;
+  /* font-weight: 500; */
+}
+.blue{
+  background-color:#2874f0;
+  color:white;
+}
