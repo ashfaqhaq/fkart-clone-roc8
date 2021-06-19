@@ -11,7 +11,7 @@ function App() {
 
     <div className="grid 1-3part bg-gray">
 
-      <aside>
+      <aside className="bg-white mg-5 pd-5">
         <Sidebar />
       </aside>
       <section>

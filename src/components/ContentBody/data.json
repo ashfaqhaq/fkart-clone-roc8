@@ -1,39 +1,68 @@
 [
   {
-    "img": "https://rukminim1.flixcart.com/image/740/888/khmbafk0-0/t-shirt/w/j/s/xs-t322-blwh-seven-rocks-original-imafxhagtyj2xvpn.jpeg?q=50",
+    "img": "https://rukminim1.flixcart.com/image/836/1003/kp5sya80/sari/a/e/r/free-1949s181-saara-unstitched-original-imag3ggmjxqkhkwa.jpeg?q=50",
     "price": 1000,
     "year": 2015,
-    "popularityRank": 1
+    "popularityRank": 1,
+    "gender":"F",
+    "brand":"Zara",
+    "size":["S","M","L","XL"],
+    "title":"Green Saree"
+
   },
   {
     "img": "https://rukminim1.flixcart.com/image/740/888/jsw3yq80/jean/y/h/g/32-mss19ajn021-metronaut-original-imafede592htbgqp.jpeg?q=50",
     "price": 4000,
     "year": 2016,
-    "popularityRank": 2
+    "popularityRank": 2,
+    "gender":"M",
+    "brand":"Gucci",
+    "size":["S","M","L","XL"],
+    "title":"Blue jeans"
+
   },
   {
     "img": "https://rukminim1.flixcart.com/image/740/888/kpydrbk0/raincoat/r/f/b/m-int-rw-001-navy-integriti-original-imag42tykqudgk75.jpeg?q=50",
     "price": 600,
     "year": 2018,
-    "popularityRank": 3
+    "popularityRank": 3,
+    "gender":"M",
+    "brand":"Nike",
+    "size":["M","L","XL"],
+    "title":"Blue attire"
+
+
   },
   {
     "img": "https://rukminim1.flixcart.com/image/740/888/kpydrbk0/raincoat/q/k/t/m-int-rw-002-navy-integriti-original-imag42t596dfdgrt.jpeg?q=50",
     "price": 74,
     "year": 2019,
-    "popularityRank": 4
+    "popularityRank": 4,
+    "gender":"M",
+    "brand":"Roadster",
+    "size":["M","L","XL"],
+    "title":"Purple attire"
   },
 
   {
-    "img": "https://rukminim1.flixcart.com/image/740/888/kpydrbk0/raincoat/r/f/b/m-int-rw-001-navy-integriti-original-imag42tykqudgk75.jpeg?q=50",
+    "img": "https://rukminim1.flixcart.com/image/740/888/k6l2vm80/sari/u/e/s/free-1458s150-samah-original-imafpyamnh7xzhct.jpeg?q=50",
     "price": 6500,
     "year": 2020,
-    "popularityRank": 5
+    "popularityRank": 5,
+    "gender":"F",
+    "brand":"Nike",
+    "size":["XL"],
+    "title":"Embroidered Fashion Saree"
+
   },
   {
-    "img": "https://rukminim1.flixcart.com/image/740/888/kpydrbk0/raincoat/r/f/b/m-int-rw-001-navy-integriti-original-imag42tykqudgk75.jpeg?q=50",
+    "img": "https://rukminim1.flixcart.com/image/740/888/kflftzk0-0/sari/o/y/c/free-hitesh2series-fumvel-unstitched-original-imafwypg4fwky3a7.jpeg?q=50",
     "price": 7500,
     "year": 2021,
-    "popularityRank": 6
+    "popularityRank": 6,
+    "gender":"F",
+    "brand":"Zara",
+    "size":["M","L","XL"],
+    "title":"Printed Kanjivaram  Saree"
   }
 ]

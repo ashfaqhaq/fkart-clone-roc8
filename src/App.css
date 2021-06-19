@@ -12,6 +12,7 @@
 
 aside{
   grid-area: sidebar;
+  
 }
 section{
   grid-area: main;

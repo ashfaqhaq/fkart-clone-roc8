@@ -4,16 +4,9 @@ function Sidebar() {
     return (
         <div>
            <li>Sidebar</li> 
-           <li>Sidebar</li> 
-
-           <li>Sidebar</li> 
-
-           <li>Sidebar</li> 
-
-           <li>Sidebar</li> 
-
-           <li>Sidebar</li> 
-
+          
+      
+        
         </div>
     )
 }
